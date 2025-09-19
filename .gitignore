@@ -1,0 +1,6 @@
+*.o
+*.out
+*.exe
+*.bin
+*.elf'*.dvi
+*.map
